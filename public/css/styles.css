@@ -184,13 +184,13 @@ main .content {
 }
 
 .instructor-card {
-    background-image: url(../img/victor-freitas-nlZTjUZX2qo-unsplash.jpg);
+    background-image: url(../img/me.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .member-card {
-    background-image: url(../img/members-card.jpg);
+    background-image: url(../img/me.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
